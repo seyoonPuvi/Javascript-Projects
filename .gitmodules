@@ -4,3 +4,9 @@
 [submodule "InfiniteScroller-JS"]
 	path = InfiniteScroller-JS
 	url = https://github.com/seyoonPuvi/InfiniteScroller-JS.git
+[submodule "WeatherApp-JS"]
+	path = WeatherApp-JS
+	url = https://github.com/seyoonPuvi/WeatherApp-JS.git
+[submodule "FLAMES-JS"]
+	path = FLAMES-JS
+	url = https://github.com/seyoonPuvi/FLAMES-JS.git
