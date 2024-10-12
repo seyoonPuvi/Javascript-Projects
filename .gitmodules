@@ -1,3 +1,6 @@
 [submodule "Capture-Cast-JS"]
 	path = Capture-Cast-JS
 	url = https://github.com/seyoonPuvi/Capture-Cast-JS.git
+[submodule "InfiniteScroller-JS"]
+	path = InfiniteScroller-JS
+	url = https://github.com/seyoonPuvi/InfiniteScroller-JS.git
